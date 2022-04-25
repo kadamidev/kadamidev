@@ -16,7 +16,7 @@
 
 <!-- Hey there, -->
 
-I'm Kadami, a developer with currently a primary focus in web development. My favorite stack would be using Typescript and a Nextjs/React frontend, with a NextAPI backend using Prisma 2 as the ORM behind a postgresql database, I also find web3 interesting in which using a publicly open state store as the backend brings in many interesting applications and it often does away with having to manage a traditional backend, however I'm flexible to using whatever tools that get the job done.
+I'm Kadami, a developer with currently a primary focus in web development. My favorite stack would be using Typescript and a Nextjs/React frontend, with a NextAPI backend using Prisma 2 as the ORM behind a postgresql database, I also find web3 interesting in which using a public blockchain as the backend brings in many interesting applications and it often does away with having to manage a traditional backend, however I'm flexible to using whatever tools that get the job done.
 
 <br/>
 
